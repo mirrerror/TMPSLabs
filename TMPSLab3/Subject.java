@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Subject {
+public class Subject {
     private final List<Observer> observers = new ArrayList<>();
     private String state;
 

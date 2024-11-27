@@ -1,4 +1,4 @@
-class SMSObserver implements Observer {
+public class SMSObserver implements Observer {
     private final String phoneNumber;
 
     public SMSObserver(String phoneNumber) {

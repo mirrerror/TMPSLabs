@@ -1,4 +1,4 @@
-class EmailObserver implements Observer {
+public class EmailObserver implements Observer {
     private final String name;
 
     public EmailObserver(String name) {
